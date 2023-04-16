@@ -1,0 +1,24 @@
+{
+  "name": "bynder-js-sdk-ts",
+  "version": "1.0.0",
+  "description": "A rewritten version of the Bynder Javascript SDK, that includes TypeScript support.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.15.11",
+    "@types/simple-oauth2": "^5.0.4",
+    "axios": "^1.3.5",
+    "is-url": "^1.2.4",
+    "proper-url-join": "^2.1.1",
+    "simple-oauth2": "^5.0.0"
+  },
+  "devDependencies": {
+    "@types/is-url": "^1.2.30",
+    "@types/proper-url-join": "^2.1.1"
+  }
+}
